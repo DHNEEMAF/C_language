@@ -1,3 +1,4 @@
+![01](https://user-images.githubusercontent.com/67286684/127747710-75d68499-0047-4f7c-8a70-d256acace443.PNG)
 # my_printf project in C programming language
 
 The my_printf() function produce output according to a format as described below. The my_printf() functions write output to stdout, the standard output stream;
