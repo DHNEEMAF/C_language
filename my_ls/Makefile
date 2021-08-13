@@ -5,7 +5,7 @@ CC = gcc
 CFLAGS += -Wall -Wextra -Werror
 
 # headers file
-DEPS += src/my_ls.h
+DEPS += include/my_ls.h
 
 # All files we need for our executable.
 OBJFILES = src/main.c src/options.c src/print_content.c src/strcmp.c\
