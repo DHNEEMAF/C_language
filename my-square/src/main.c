@@ -1,4 +1,4 @@
-#include "my_square.h"
+#include "../include/my_square.h"
 
 int main()
 {
