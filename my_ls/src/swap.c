@@ -1,4 +1,4 @@
-#include "my_ls.h"
+#include "../include/my_ls.h"
 
 /* swapping between outputs when needed */
 void swap_int(int* xp, int* yp)
